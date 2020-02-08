@@ -17,6 +17,8 @@
 6. git merge --no-ff nome
 7. gitk --all 
 8. git remote add origin http://url.com
+9. git push -u origin master
+10. git pull
 
 > **Mussum Ipssum** https://mussumipsum.com/
 > **Dilma Ipssum** http://dilmesipsum.com.br/
